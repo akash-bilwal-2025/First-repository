@@ -1,6 +1,6 @@
 
 // Simple Java program to find sum of numbers
-public class SumNumbers {
+public class App {
     public static void main(String[] args) {
         int sum = 0;
 
